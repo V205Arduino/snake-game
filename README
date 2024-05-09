@@ -1,3 +1,16 @@
+
+I was lazy, and lumped everything in one SnakeGame.java
+
+Now it has sound, but the code smells.
+I'll probably break apart the 11kb file later, and fix stuff up.
+sound from:
+https://pixabay.com/sound-effects/apple-munch-40169/
+Apple Munch sound effect - used when a piece of food is eaten
+
+
+https://pixabay.com/sound-effects/negative-beeps-6008/
+Used when the game ends.
+
 Instructions to run: 
 
 1. Open terminal: 
